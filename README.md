@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Enes-Derin?tab=repositories">🔗 Tüm Projelerim</a> •
-  <a href="https://drive.google.com/file/d/18CeHRi8zTBKEeDnAzBKqkSlHfjm2Nywi/view?usp=drive_link">📄 Özgeçmişim</a> •
+  <a href="https://drive.google.com/file/d/18CeHRi8zTBKEeDnAzBKqkSlHfjm2Nywi/view?usp=drive_link" target="_blank">📄 Özgeçmişim</a> •
   <a href="mailto:enesderin.contact@gmail.com">✉️ Mail</a>
 </p>
 
