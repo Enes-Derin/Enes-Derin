@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba 👋, ben Enes Derin</h1>
+<h1 align="center">Merhaba, ben Enes Derin</h1>
 <h3 align="center">Java, Spring Boot ve React ekosistemlerinde çalışan bir full-stack geliştiricisiyim.</h3>
 
 <p align="center">
@@ -9,19 +9,19 @@
 
 ---
 
-### 🚀 Şu Anda Üzerinde Çalıştığım Proje
+### Şu Anda Üzerinde Çalıştığım Proje
 **FixTrack**  
 Backend → https://github.com/Enes-Derin/FixTrackBackend  
 Frontend → https://github.com/Enes-Derin/FixTrackFrontend  
 
 ---
 
-### 💬 Bana Şunlar Hakkında Soru Sorabilirsiniz
+### Bana Şunlar Hakkında Soru Sorabilirsiniz
 **Spring Boot, React, REST API, JWT, UI/UX, Figma**
 
 ---
 
-### 📫 Beni Tanıyabileceğiniz Hesaplarım:
+### Beni Tanıyabileceğiniz Hesaplarım:
 <p align="left">
 <a href="https://linkedin.com/in/enes-derin" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
@@ -62,7 +62,7 @@ Frontend → https://github.com/Enes-Derin/FixTrackFrontend
 </p>
 
 ---
-### 🚀 GitHub Performance
+### GitHub Performance
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enes-Derin&theme=default" />
 </p>
