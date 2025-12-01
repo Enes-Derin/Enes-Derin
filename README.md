@@ -9,18 +9,6 @@
 
 ---
 
-### Şu Anda Üzerinde Çalıştığım Proje
-**FixTrack**  
-Backend → https://github.com/Enes-Derin/FixTrackBackend  
-Frontend → https://github.com/Enes-Derin/FixTrackFrontend  
-
----
-
-### Bana Şunlar Hakkında Soru Sorabilirsiniz
-**Spring Boot, React, REST API, JWT, UI/UX, Figma**
-
----
-
 ### Beni Tanıyabileceğiniz Hesaplarım:
 <p align="left">
 <a href="https://linkedin.com/in/enes-derin" target="_blank">
